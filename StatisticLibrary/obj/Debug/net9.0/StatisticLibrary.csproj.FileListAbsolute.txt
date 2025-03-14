@@ -1,0 +1,14 @@
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\bin\Debug\net9.0\StatisticLibrary.exe
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\bin\Debug\net9.0\StatisticLibrary.deps.json
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\bin\Debug\net9.0\StatisticLibrary.runtimeconfig.json
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\bin\Debug\net9.0\StatisticLibrary.dll
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\bin\Debug\net9.0\StatisticLibrary.pdb
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\StatisticLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\StatisticLibrary.AssemblyInfoInputs.cache
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\StatisticLibrary.AssemblyInfo.cs
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\StatisticLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\StatisticLibrary.dll
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\refint\StatisticLibrary.dll
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\StatisticLibrary.pdb
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\StatisticLibrary.genruntimeconfig.cache
+C:\Users\JoseIungo\Desktop\testingFrameworkc\StatisticLibrary\obj\Debug\net9.0\ref\StatisticLibrary.dll
